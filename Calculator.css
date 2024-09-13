@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.button {
+  padding: 15.5px 24.5px;
+  border: 1px solid pink;
+  border-radius: 20px;
+  cursor: pointer;
+  margin: 0 3px;
+  background-color: rgb(201, 226, 231);
+  border: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5rem;
+}
+.M {
+  padding: 11.5px  18px;
+}
